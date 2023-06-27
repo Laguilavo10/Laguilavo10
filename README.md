@@ -16,11 +16,7 @@ Si tienes alguna pregunta, colaboración o simplemente quieres conectarte, no du
 <a href="https://linkedin.com/in/andres laguilavo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres laguilavo" height="30" width="40" /></a>
 </p>
 
-## ¡Construyamos algo increíble juntos!
 
-Si tienes un proyecto emocionante o una oportunidad de colaboración, no dudes en contactarme. Aprovechemos el poder de la tecnología para crear experiencias de usuario excepcionales y tener un impacto positivo en el mundo digital.
-
-¡Gracias por visitar mi perfil de GitHub, y espero conectarme contigo pronto!
 
 
 
