@@ -16,14 +16,6 @@ Si tienes alguna pregunta, colaboración o simplemente quieres conectarte, no du
 <a href="https://linkedin.com/in/andres laguilavo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres laguilavo" height="30" width="40" /></a>
 </p>
 
-## Stats
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laguilavo10" alt="laguilavo10" /></a> </p>
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=laguilavo10&show_icons=true&locale=en&layout=compact" alt="laguilavo10" /></p>
-
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=laguilavo10&show_icons=true&locale=en" alt="laguilavo10" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=laguilavo10&" alt="laguilavo10" /></p>
 
 
 
